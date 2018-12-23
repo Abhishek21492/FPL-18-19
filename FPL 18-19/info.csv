@@ -1,0 +1,566 @@
+id	first_name	second_name
+1	Petr	Cech
+2	Bernd	Leno
+3	Laurent	Koscielny
+4	HÃƒÂ©ctor	BellerÃƒÂ­n
+5	Nacho	Monreal
+6	Rob	Holding
+7	Shkodran	Mustafi
+8	Sead	Kolasinac
+9	Calum	Chambers
+10	Konstantinos	Mavropanos
+11	Stephan	Lichtsteiner
+12	Sokratis	Papastathopoulos
+13	Mesut	Ãƒâ€“zil
+14	Aaron	Ramsey
+15	Alex	Iwobi
+16	Mohamed	Elneny
+17	Granit	Xhaka
+18	Henrikh	Mkhitaryan
+19	Reiss	Nelson
+20	Ainsley	Maitland-Niles
+21	Danny	Welbeck
+22	Alexandre	Lacazette
+23	Pierre-Emerick	Aubameyang
+24	Asmir	Begovic
+25	Artur	Boruc
+26	Simon	Francis
+27	Steve	Cook
+28	Charlie	Daniels
+29	Adam	Smith
+30	Tyrone	Mings
+31	Nathan	AkÃƒÂ©
+32	Jack	Simpson
+33	Harry	Arter
+34	Marc	Pugh
+35	Andrew	Surman
+36	Junior	Stanislas
+37	Dan	Gosling
+38	Jordon	Ibe
+39	Lewis	Cook
+40	Ryan	Fraser
+41	Emerson	Hyndman
+42	David	Brooks
+43	Callum	Wilson
+44	Lys	Mousset
+45	Joshua	King
+46	Jermain	Defoe
+47	Mathew	Ryan
+48	Lewis	Dunk
+49	Shane	Duffy
+50	Bruno	Saltor Grau
+51	GaÃƒÂ«tan	Bong
+52	Markus	Suttner
+53	Ezequiel	Schelotto
+54	Leon	Balogun
+55	Anthony	Knockaert
+56	Dale	Stephens
+57	Beram	Kayal
+58	Solomon	March
+59	Pascal	GroÃƒÅ¸
+60	Davy	PrÃƒÂ¶pper
+61	JosÃƒÂ© Heriberto	Izquierdo Mena
+62	Glenn	Murray
+63	Tomer	Hemed
+64	Sam	Baldock
+65	JÃƒÂ¼rgen	Locadia
+66	Florin	Andone
+67	Tom	Heaton
+68	Nick	Pope
+69	Matthew	Lowton
+70	Ben	Mee
+71	Stephen	Ward
+72	James	Tarkowski
+73	Kevin	Long
+74	Charlie	Taylor
+75	Phil	Bardsley
+76	Johann Berg	Gudmundsson
+77	Steven	Defour
+78	Jeff	Hendrick
+79	Robbie	Brady
+80	Ashley	Westwood
+81	Jonathan	Walters
+82	Jack	Cork
+83	Aaron	Lennon
+84	Sam	Vokes
+85	Ashley	Barnes
+86	Nahki	Wells
+87	Chris	Wood
+88	Neil	Etheridge
+89	Alex	Smithies
+90	Sean	Morrison
+91	Sol	Bamba
+92	Bruno	Ecuele Manga
+93	Matthew	Connolly
+94	Joe	Bennett
+95	Lee	Peltier
+96	Ashley Darel Jazz	Richards
+97	Greg	Halford
+98	Joe	Ralls
+99	David Junior	Hoilett
+100	Nathaniel	Mendez-Laing
+101	Callum	Paterson
+102	Aron	Gunnarsson
+103	Anthony	Pilkington
+104	LoÃƒÂ¯c	Damour
+105	Danny	Ward
+106	Josh	Murphy
+107	Kenneth	Zohore
+108	Omar	Bogle
+109	Gary	Madine
+110	Bobby	Reid
+111	Thibaut	Courtois
+112	Willy	Caballero
+113	CÃƒÂ©sar	Azpilicueta
+114	Gary	Cahill
+115	Marcos	Alonso
+116	David	Luiz Moreira Marinho
+117	Victor	Moses
+118	Antonio	RÃƒÂ¼diger
+119	Andreas	Christensen
+120	Davide	Zappacosta
+121	Emerson	Palmieri dos Santos
+122	Eden	Hazard
+123	Cesc	FÃƒ bregas
+124	Willian	Borges Da Silva
+125	Pedro	RodrÃƒÂ­guez Ledesma
+126	N'Golo	KantÃƒÂ©
+127	Ross	Barkley
+128	Daniel	Drinkwater
+129	TiemouÃƒÂ©	Bakayoko
+130	Ethan	Ampadu
+131	Callum	Hudson-Odoi
+132	Ruben	Loftus-Cheek
+133	Olivier	Giroud
+134	ÃƒÂ�lvaro	Morata
+135	Wayne	Hennessey
+136	Julian	Speroni
+137	Vicente	Guaita
+138	James	Tomkins
+139	Scott	Dann
+140	Martin	Kelly
+141	Jeffrey	Schlupp
+142	Patrick	van Aanholt
+143	Mamadou	Sakho
+144	Jairo	Riedewald
+145	Aaron	Wan-Bissaka
+146	Jason	Puncheon
+147	James	McArthur
+148	Bakary	Sako
+149	Andros	Townsend
+150	Luka	Milivojevic
+151	Wilfried	Zaha
+152	Christian	Benteke
+153	Alexander	SÃƒÂ¸rloth
+154	Jordan	Pickford
+155	Maarten	Stekelenburg
+156	Leighton	Baines
+157	Seamus	Coleman
+158	Phil	Jagielka
+159	Ashley	Williams
+160	Mason	Holgate
+161	Jonjoe	Kenny
+162	Michael	Keane
+163	Cuco	Martina
+164	Theo	Walcott
+165	Yannick	Bolasie
+166	James	McCarthy
+167	Morgan	Schneiderlin
+168	Idrissa	Gueye
+169	Tom	Davies
+170	Ademola	Lookman
+171	Davy	Klaassen
+172	Gylfi	Sigurdsson
+173	Nikola	Vlasic
+174	Beni	Baningime
+175	Dominic	Calvert-Lewin
+176	Oumar	Niasse
+177	Cenk	Tosun
+178	Marcus	Bettinelli
+179	David	Button
+180	Tim	Ream
+181	Denis	Odoi
+182	Tom	Cairney
+183	Kevin	McDonald
+184	Ryan	Sessegnon
+185	Stefan	Johansen
+186	Floyd	AyitÃƒÂ©
+187	Neeskens	Kebano
+188	Rui Pedro	da Rocha Fonte
+189	Aboubakar	Kamara
+190	Ben	Hamer
+191	Jonas	LÃƒÂ¶ssl
+192	Christopher	Schindler
+193	Chris	LÃƒÂ¶we
+194	Tommy	Smith
+195	Mathias	Jorgensen
+196	Scott	Malone
+197	Florent	Hadergjonaj
+198	Terence	Kongolo
+199	Aaron	Mooy
+200	Rajiv	van La Parra
+201	Jonathan	Hogg
+202	Philip	Billing
+203	Tom	Ince
+204	Danny	Williams
+205	Abdelhamid	Sabiri
+206	Alex	Pritchard
+207	Ramadan	Sobhi
+208	Juninho	Bacuna
+209	Collin	Quaner
+210	Laurent	Depoitre
+211	Steve	Mounie
+212	Elias	Kachunga
+213	Kasper	Schmeichel
+214	Eldin	Jakupovic
+215	Wes	Morgan
+216	Christian	Fuchs
+217	Danny	Simpson
+218	Yohan	Benalouane
+219	Benjamin	Chilwell
+220	Harry	Maguire
+221	Ricardo Domingos	Barbosa Pereira
+222	Jonny	Evans
+223	Riyad	Mahrez
+224	Marc	Albrighton
+225	Demarai	Gray
+226	Daniel	Amartey
+227	Wilfred	Ndidi
+228	Vicente	Iborra
+229	Matty	James
+230	Hamza	Choudhury
+231	Adrien Sebastian	Perruchet Silva
+232	Fousseni	DiabatÃƒÂ©
+233	James	Maddison
+234	Jamie	Vardy
+235	Shinji	Okazaki
+236	Kelechi	Iheanacho
+237	Simon	Mignolet
+238	Loris	Karius
+239	Dejan	Lovren
+240	Alberto	Moreno
+241	Nathaniel	Clyne
+242	Joseph	Gomez
+243	Joel	Matip
+244	Ragnar	Klavan
+245	Trent	Alexander-Arnold
+246	Virgil	van Dijk
+247	Andrew	Robertson
+248	Alex	Oxlade-Chamberlain
+249	Jordan	Henderson
+250	Adam	Lallana
+251	Sadio	ManÃƒÂ©
+252	Georginio	Wijnaldum
+253	Mohamed	Salah
+254	James	Milner
+255	Fabio Henrique	Tavares
+256	Naby	Keita
+257	Roberto	Firmino
+258	Danny	Ings
+259	Dominic	Solanke
+260	Ederson	Santana de Moraes
+261	Claudio	Bravo
+262	John	Stones
+263	Vincent	Kompany
+264	NicolÃƒÂ¡s	Otamendi
+265	Kyle	Walker
+266	Danilo Luiz	da Silva
+267	Benjamin	Mendy
+268	Aymeric	Laporte
+269	Fabian	Delph
+270	Raheem	Sterling
+271	David	Silva
+272	Fernando	Luiz Rosa
+273	Kevin	De Bruyne
+274	Ilkay	GÃƒÂ¼ndogan
+275	Leroy	SanÃƒÂ©
+276	Bernardo Mota	Veiga de Carvalho e Silva
+277	Phil	Foden
+278	Brahim	Diaz
+279	Oleksandr	Zinchenko
+280	Sergio	AgÃƒÂ¼ero
+281	Gabriel Fernando	de Jesus
+282	David	De Gea
+283	Sergio	Romero
+284	Chris	Smalling
+285	Phil	Jones
+286	Luke	Shaw
+287	Marcos	Rojo
+288	Antonio	Valencia
+289	Matteo	Darmian
+290	Daley	Blind
+291	Eric	Bailly
+292	Victor	LindelÃƒÂ¶f
+293	Ashley	Young
+294	JosÃƒÂ© Diogo	Dalot Teixeira
+295	Alexis	SÃƒÂ¡nchez
+296	Nemanja	Matic
+297	Juan	Mata
+298	Marouane	Fellaini
+299	Ander	Herrera
+300	Jesse	Lingard
+301	Anthony	Martial
+302	Paul	Pogba
+303	Scott	McTominay
+304	Frederico	Rodrigues de Paula Santos
+305	Marcus	Rashford
+306	Romelu	Lukaku
+307	Robert	Elliot
+308	Karl	Darlow
+309	Martin	Dubravka
+310	DeAndre	Yedlin
+311	Ciaran	Clark
+312	Jamaal	Lascelles
+313	Paul	Dummett
+314	Florian	Lejeune
+315	Javier	Manquillo
+316	Chancel	Mbemba
+317	Matt	Ritchie
+318	Jonjo	Shelvey
+319	Mohamed	DiamÃƒÂ©
+320	Christian	Atsu
+321	Jacob	Murphy
+322	Mikel	Merino
+323	Isaac	Hayden
+324	Sung-yueng	Ki
+325	Dwight	Gayle
+326	Ayoze	PÃƒÂ©rez
+327	Jose Luis	Mato SanmartÃƒÂ­n
+328	Alex	McCarthy
+329	Fraser	Forster
+330	Ryan	Bertrand
+331	Maya	Yoshida
+332	CÃƒÂ©dric	Soares
+333	Jack	Stephens
+334	Sam	McQueen
+335	Jan	Bednarek
+336	Wesley	Hoedt
+337	Steven	Davis
+338	James	Ward-Prowse
+339	Oriol	Romeu Vidal
+340	Pierre-Emile	HÃƒÂ¸jbjerg
+341	Sofiane	Boufal
+342	Joshua	Sims
+343	Nathan	Redmond
+344	Mario	Lemina
+345	Stuart	Armstrong
+346	Mohamed	Elyounoussi
+347	Shane	Long
+348	Charlie	Austin
+349	Manolo	Gabbiadini
+350	Guido	Carrillo
+351	Hugo	Lloris
+352	Michel	Vorm
+353	Toby	Alderweireld
+354	Danny	Rose
+355	Jan	Vertonghen
+356	Ben	Davies
+357	Kieran	Trippier
+358	Kyle	Walker-Peters
+359	Davinson	SÃƒÂ¡nchez
+360	Serge	Aurier
+361	Eric	Dier
+362	Mousa	DembÃƒÂ©lÃƒÂ©
+363	Erik	Lamela
+364	Christian	Eriksen
+365	Bamidele	Alli
+366	Victor	Wanyama
+367	Heung-Min	Son
+368	Harry	Winks
+369	Moussa	Sissoko
+370	Lucas	Rodrigues Moura da Silva
+371	Fernando	Llorente
+372	Harry	Kane
+373	Heurelho	Gomes
+374	Pontus	Dahlberg
+375	Younes	Kaboul
+376	Craig	Cathcart
+377	Sebastian	PrÃƒÂ¶dl
+378	JosÃƒÂ©	Holebas
+379	Miguel	Britos
+380	Christian	Kabasele
+381	Daryl	Janmaat
+382	Adrian	Mariappa
+383	Francisco	FemenÃƒÂ­a Far
+384	Marvin	Zeegelaar
+385	Marc	Navarro
+386	Adam	Masina
+387	Nathaniel	Chalobah
+388	Tom	Cleverley
+389	Etienne	Capoue
+390	Abdoulaye	DoucourÃƒÂ©
+391	Roberto	Pereyra
+392	Will	Hughes
+393	Richarlison	de Andrade
+394	Gerard	Deulofeu
+395	Andre	Gray
+396	Troy	Deeney
+397	Stefano	Okaka
+398	Jerome	Sinclair
+399	AdriÃƒÂ¡n	San Miguel del Castillo
+400	Lukasz	Fabianski
+401	Winston	Reid
+402	Aaron	Cresswell
+403	Angelo	Ogbonna
+404	Sam	Byram
+405	Pablo	Zabaleta
+406	Declan	Rice
+407	Reece	Oxford
+408	Ryan	Fredericks
+409	Issa	Diop
+410	Arthur	Masuaku
+411	Mark	Noble
+412	Cheikhou	KouyatÃƒÂ©
+413	Pedro	Obiang
+414	Manuel	Lanzini
+415	Michail	Antonio
+416	Edimilson	Fernandes
+417	Marko	Arnautovic
+418	Andy	Carroll
+419	Javier	HernÃƒÂ¡ndez BalcÃƒÂ¡zar
+420	Jordan	Hugill
+421	John	Ruddy
+422	Will	Norris
+423	Willy	Boly
+424	Barry	Douglas
+425	Matt	Doherty
+426	Romain	SaÃƒÂ¯ss
+427	Ryan	Bennett
+428	Danny	Batth
+429	Roderick Jefferson	GonÃƒÂ§alves Miranda
+430	Conor	Coady
+431	RÃƒÂºben GonÃƒÂ§alo	Silva Nascimento Vinagre
+432	Diogo	Jota
+433	RÃƒÂºben Diogo	da Silva Neves
+434	Ivan	Cavaleiro
+435	HÃƒÂ©lder	Costa
+436	Bright	Enobakhare
+437	RaÃƒÂºl	JimÃƒÂ©nez
+438	Bonatini Lohner Maia	Bonatini
+439	Jason	Steele
+440	Bernardo	Fernandes da Silva Junior
+441	Joel	Ward
+442	Jaroslaw	Jach
+443	Pape	SouarÃƒÂ©
+444	Connor	Wickham
+445	Ben	Foster
+446	Ken	Sema
+447	Jack	Wilshere
+448	Morgan	Gibbs-White
+449	Rafa	Mir
+450	Lucas	Torreira
+451	Matteo	Guendouzi
+452	Angus	Gunn
+453	Andriy	Yarmolenko
+454	Rui Pedro	dos Santos PatrÃƒÂ­cio
+455	Maxime	Le Marchand
+456	Jean Michael	Seri
+457	Danny	Ward
+458	Robert Kenedy	Nunes do Nascimento
+459	Jorge Luiz	Frello Filho
+460	Cyrus	Christie
+461	Erik	Durm
+462	Xherdan	Shaqiri
+463	Jannik	Vestergaard
+464	FabiÃƒÂ¡n	Balbuena
+465	Felipe Anderson	Pereira Gomes
+466	Yves	Bissouma
+467	Greg	Cunninghamm
+468	Alisson	Ramses Becker
+469	Kevin	Mirallas
+470	Sandro	RamÃƒÂ­rez
+471	Adama	Diakhaby
+472	Daniel	Sturridge
+473	Diego	Rico
+474	Fabricio	Agosto RamÃƒÂ­rez
+475	JoÃƒÂ£o Filipe Iria	Santos Moutinho
+476	Alireza	Jahanbakhsh
+477	Sullay	Kaikai
+478	AndrÃƒÂ©	SchÃƒÂ¼rrle
+479	Matt	Targett
+480	Aleksandar	Mitrovic
+481	Andreas	Pereira
+482	Fabian	SchÃƒÂ¤r
+483	Jonathan	Castro Otto
+484	Lucas	Digne
+485	Anders	Lindegaard
+486	Max	Meyer
+487	Alfie	Mawson
+488	Yoshinori	Muto
+489	Robert	Snodgrass
+490	Joe	Hart
+491	Ben	Gibson
+492	Rachid	Ghezzal
+493	SalomÃƒÂ³n	RondÃƒÂ³n
+494	Jefferson	Lerma
+495	Matej	Vydra
+496	Tammy	Abraham
+497	Georges-KÃƒÂ©vin	Nkoudou
+498	Kepa	Arrizabalaga
+499	Mateo	Kovacic
+500	Adama	TraorÃƒÂ©
+501	Filip	Benkovic
+502	Lucas	PÃƒÂ©rez
+503	MartÃƒÂ­n	Montoya
+504	VÃƒÂ­ctor	Camarasa
+505	Jordan	Ayew
+506	Yerry	Mina
+507	Bernard	AnÃƒÂ­cio Caldeira Duarte
+508	AndrÃƒÂ© Filipe	Tavares Gomes
+509	Sergio	Rico
+510	Joe	Bryan
+511	Timothy	Fosu-Mensah
+512	AndrÃƒÂ©-Frank	Zambo Anguissa
+513	Luciano	Vietto
+514	Isaac	Mbenza
+515	Caglar	SÃƒÂ¶yÃƒÂ¼ncÃƒÂ¼
+516	Federico	FernÃƒÂ¡ndez
+517	Domingos	Quina
+518	Carlos	SÃƒÂ¡nchez
+519	Leander	Dendoncker
+520	Lee	Grant
+521	Ibrahima	CissÃƒÂ©
+522	Jon Gorenc	Stankovic
+523	Luke	Amos
+524	Isaac	Success Ajayi
+525	Kortney	Hause
+526	Kurt	Zouma
+527	Nampalys	Mendy
+528	Kieran	Dowell
+529	Arijanet	Muric
+530	Jamie	Sterry
+531	Sean	Longstaff
+532	Tyias	Browning
+533	Ryan	Schofield
+534	Dwight	McNeil
+535	Kadeem	Harris
+536	Paulo	Gazzaniga
+537	Brian	Murphy
+538	Alfie	Whiteman
+539	Grady	Diangana
+540	Oliver	Skipp
+541	Zeze Steven	Sessegnon
+542	Emiliano	MartÃƒÂ­nez
+543	Divock	Origi
+544	Ben	Wilmot
+545	Emile	Smith-Rowe
+546	Zech	Medley
+547	Joe	Powell
+548	Conor	Coventry
+549	Juan	Foyth
+550	Michael	Obafemi
+551	Viktor	Gyokeres
+552	Edward	Nketiah
+553	Frederick	Woodman
+554	Adalberto	PeÃƒÂ±aranda
+555	Ryan John	Giles
+556	Yan	Valery
+557	Rafael	Camacho
+558	Josh	Knight
+559	Ben	White
+560	Alexandre Nascimento	Costa Silva
+561	Timothy	Eyoma
+562	Tyreke	Johnson
+563	Bukayo	Saka
+564	Abd-Al-Ali Morakinyo Olaposi	Koiki
+565	Kayne	Ramsay
